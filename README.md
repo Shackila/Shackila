@@ -11,8 +11,7 @@
 
 ## Projects I'm Proud Of
 
-### PORTFOLIO
-![image](https://github.com/Shackila/Shackila/assets/105964124/e778ee55-7466-46f2-9fbc-f87106f4b25f)![image](https://github.com/Shackila/Shackila/assets/105964124/8f342001-8ee7-42e2-9744-5df63c8264d7)![image](https://github.com/Shackila/Shackila/assets/105964124/001de5d4-023d-4df5-b67f-3c41ffbf39b8)
+### PORTFOLIO ![image](https://github.com/Shackila/Shackila/assets/105964124/e778ee55-7466-46f2-9fbc-f87106f4b25f)![image](https://github.com/Shackila/Shackila/assets/105964124/8f342001-8ee7-42e2-9744-5df63c8264d7)![image](https://github.com/Shackila/Shackila/assets/105964124/001de5d4-023d-4df5-b67f-3c41ffbf39b8)
 
 <div>
   <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
