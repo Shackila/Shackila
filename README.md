@@ -15,16 +15,16 @@
 📌 [HTML | CSS | JS]
 <br/>
 <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
-  <img src="https://github.com/Shackila/Shackila/assets/105964124/daedccef-8804-444d-b4dd-fa97d014d648" alt="Link Icon" width="24" height="24">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
 </a>
 <br/>
 📂 https://github.com/Shackila/portfolio
 
 ### WEATHER APP
 📌 [Vanilla JS | CSS | HTML]
-🔗 ()
+<br/>
 <a href="https://regal-kitten-46db67.netlify.app/" target="_blank">
-   <img src="https://github.com/Shackila/Shackila/assets/105964124/daedccef-8804-444d-b4dd-fa97d014d648" alt="Link Icon" width="24" height="24">
+   <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
 </a>
 <br/>
 📂 https://github.com/Shackila/semi-advanced-weather-app
