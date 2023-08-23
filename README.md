@@ -6,7 +6,7 @@
 ## About Me
 
 - 🎨 I love to combine the art of design with the science of programming.
-- 🎓 Studing Computer Engineering at ZNU.
+- 🎓 I am studing Computer Engineering at ZNU.
 - ⌛ Currently exploring React-Js.
 
 ## Projects I'm Proud Of
