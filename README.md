@@ -12,7 +12,7 @@
 ## Projects I'm Proud Of
 
 ### PORTFOLIO
-📌[HTML | CSS | JS]
+[HTML | CSS | JS]
 <div>
   <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
   <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
@@ -28,7 +28,7 @@
   </div>
 
 ### WEATHER APP
-📌[Vanilla JS | CSS | HTML]
+[Vanilla JS | CSS | HTML]
 <div>
    <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
    <a href="https://regal-kitten-46db67.netlify.app/" target="_blank">
@@ -39,7 +39,7 @@
 <div>
   <img src="https://github.com/Shackila/Shackila/assets/105964124/310e1e09-217c-4ac6-bb23-6b19f9d7b6cd" alt="Link Icon" width="24" height="24">
   <a href="https://github.com/Shackila/semi-advanced-weather-app" target="_blank">
-  Portfolio Github Ripository
+  Weather App Github Ripository
 </a>
   </div>
   
