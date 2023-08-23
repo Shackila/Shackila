@@ -22,7 +22,13 @@
 </a>
   </div>
 <br/>
-📂 https://github.com/Shackila/portfolio
+<div>
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/310e1e09-217c-4ac6-bb23-6b19f9d7b6cd
+" alt="Link Icon" width="24" height="24">
+  <a href="https://github.com/Shackila/portfolio" target="_blank">
+  Portfolio Github Ripository
+</a>
+  </div>
 
 ### WEATHER APP
 [Vanilla JS | CSS | HTML]
@@ -33,8 +39,14 @@
 </a>
   </div>
 <br/>
-📂 https://github.com/Shackila/semi-advanced-weather-app
-
+<div>
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/310e1e09-217c-4ac6-bb23-6b19f9d7b6cd
+" alt="Link Icon" width="24" height="24">
+  <a href="[https://github.com/Shackila/portfolio](https://github.com/Shackila/semi-advanced-weather-app)" target="_blank">
+  Portfolio Github Ripository
+</a>
+  </div>
+  
 ## Technologies I Love
 
   ![js](https://github.com/Shackila/Shackila/assets/105964124/cf9a0970-6736-4f6f-bcc2-8632267ce703)
