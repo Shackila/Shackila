@@ -38,5 +38,5 @@
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/shakila-movahed" target="_blank">
-  <img src="https://github.com/Shackila/Shackila/assets/105964124/117ad316-aee0-4cfd-a363-ea03de4457c5" alt="LinkedIn Icon" width="24" height="24">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/c20fb34e-1b5f-46f9-8629-5e2dd4546f0d" alt="LinkedIn Icon" width="24" height="24">
 </a>
