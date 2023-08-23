@@ -32,9 +32,11 @@
 
 
 
-## Let's Connect
-
-📧 Email: mvd.shakila@gmail.com
+## Contact Me
+<a href="mvd.shakila@gmail.com" target="_blank">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/49789ea0-afa5-4180-a802-9276aa43a361" alt="Gmail Icon" width="24" height="24">
+</a>
+<br/>
 <a href="https://www.linkedin.com/in/shakila-movahed" target="_blank">
   <img src="https://github.com/Shackila/Shackila/assets/105964124/117ad316-aee0-4cfd-a363-ea03de4457c5" alt="LinkedIn Icon" width="24" height="24">
 </a>
