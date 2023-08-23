@@ -16,7 +16,7 @@
 🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 https://github.com/Shackila/portfolio
 
 ### WEATHER APP
-📌 [Vanilla JS | CSS  HTML]
+📌 [Vanilla JS | CSS | HTML]
 🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 https://github.com/Shackila/semi-advanced-weather-app
 
 ## Technologies I Love
