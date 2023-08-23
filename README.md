@@ -34,8 +34,10 @@
 
 ## Contact Me
 <a href="mvd.shakila@gmail.com" target="_blank">
+  <div>
   <img src="https://github.com/Shackila/Shackila/assets/105964124/62ce87de-05d8-4a03-bcc6-f9a15fc50e0b" alt="Gmail Icon" width="24" height="24">
-Shakila's Gmail
+ Shakila's Gmail
+    </div>
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/shakila-movahed" target="_blank">
