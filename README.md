@@ -1,7 +1,5 @@
-![Tech Woman](https://img.icons8.com/external-flat-wichaiwi/64/000000/external-designer-gig-economy-flat-wichaiwi.png)
 # Hi, I'm Shakila! 
-
-
+![Tech Woman](https://img.icons8.com/external-flat-wichaiwi/64/000000/external-designer-gig-economy-flat-wichaiwi.png)
 🚀 Front-End Developer | 💻 Tech Lover | 🔜 Software Engineer To Be
 
 ## About Me
