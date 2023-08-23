@@ -19,7 +19,7 @@
 </a>
 <br/>
 <a href="https://github.com/Shackila/portfolio" target="_blank">
-    Portfolio Github Ripository
+    Portfolio Github Repository
 </a>
 
 ### 📌WEATHER APP
@@ -28,7 +28,7 @@
 </a>
 <br/>
   <a href="https://github.com/Shackila/semi-advanced-weather-app" target="_blank">
-    Weather App Github Ripository
+    Weather App Github Repository
 </a>
   
 ## Technologies I Love
