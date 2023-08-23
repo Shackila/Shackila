@@ -13,7 +13,8 @@
 
 ### PORTFOLIO
 📌 [HTML | CSS | JS]
-🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 https://github.com/Shackila/portfolio
+🔗 (https://tubular-narwhal-219d42.netlify.app/) | 
+📂 https://github.com/Shackila/portfolio
 
 ### WEATHER APP
 📌 [Vanilla JS | CSS | HTML]
