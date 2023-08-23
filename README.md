@@ -10,12 +10,12 @@
 
 ## Projects I'm Proud Of
 
-### [Project 1]
+### [PORTFOLIO]
 
 📌 [My Personal Portfolio]
 🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 [GitHub Repo](URL)
 
-### [Project 2]
+### [WEATHER APP]
 
 📌 [Weather App | Vanilla JS]
 🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 [GitHub Repo](URL)
