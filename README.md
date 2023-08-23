@@ -36,5 +36,5 @@
 
 📧 Email: mvd.shakila@gmail.com
 <a href="https://www.linkedin.com/in/shakila-movahed" target="_blank">
-  <img src="https://github.com/Shackila/Shackila/assets/105964124/8a63cd99-cc30-47e1-80a9-31d7a7fc6baf" alt="LinkedIn Icon" width="24" height="24">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/117ad316-aee0-4cfd-a363-ea03de4457c5" alt="LinkedIn Icon" width="24" height="24">
 </a>
