@@ -23,11 +23,11 @@
 
 ## Technologies I Love
 
-  ![js](https://github.com/Shackila/Shackila/assets/105964124/e1925eee-3533-483b-84d1-b76697725731)
-, ![react](https://github.com/Shackila/Shackila/assets/105964124/0eab9d73-9645-4db8-854a-97da631f4b09)
-, ![html](https://github.com/Shackila/Shackila/assets/105964124/b9c30277-200e-4c79-879b-c808f0db30a1)
-, ![css](https://github.com/Shackila/Shackila/assets/105964124/fcbe8994-0ed6-4ef1-bc2a-7e45b25df7fa)
-, ![bootstrap](https://github.com/Shackila/Shackila/assets/105964124/3a8b6b26-9d35-44be-8687-abc656cd4eca)
+  ![js](https://github.com/Shackila/Shackila/assets/105964124/cf9a0970-6736-4f6f-bcc2-8632267ce703)
+| ![react](https://github.com/Shackila/Shackila/assets/105964124/fe52203a-60e7-4c5b-b98a-76001bc11ddb)
+| ![html](https://github.com/Shackila/Shackila/assets/105964124/43f18783-bfa7-4cdb-92f4-44e0eae7ec32)
+| ![css](https://github.com/Shackila/Shackila/assets/105964124/2d060331-46cf-4a6b-b934-19be3df78a17)
+| ![bootstrap](https://github.com/Shackila/Shackila/assets/105964124/3a8b6b26-9d35-44be-8687-abc656cd4eca)
 
 
 
