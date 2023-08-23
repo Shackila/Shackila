@@ -35,4 +35,6 @@
 ## Let's Connect
 
 📧 Email: mvd.shakila@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shakila-movahed
+<a href="https://www.linkedin.com/in/shakila-movahed" target="_blank">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/c3540738-8661-4775-8b68-2cdff2712186" alt="LinkedIn Icon" width="24" height="24">
+</a>
