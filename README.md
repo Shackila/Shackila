@@ -23,7 +23,9 @@
 
 ## Technologies I Love
 
-![JS icon](https://icons8.com/icon/108784/javascript)| ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
+![image](https://github.com/Shackila/Shackila/assets/105964124/75d95784-12e4-4888-8725-50296278dfec)
+
+| ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
 
 ## Let's Connect
 
