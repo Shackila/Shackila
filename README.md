@@ -1,4 +1,4 @@
-# Hi, I'm Shakila!
+# Hi, I'm Shakila! 
 
 🚀 Front-End Developer | 💻 Tech Lover | 🔜 Software Engineer To Be
 
@@ -13,12 +13,12 @@
 ### [PORTFOLIO]
 
 📌 [My Personal Portfolio]
-🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 [GitHub Repo](URL)
+🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 https://github.com/Shackila/portfolio
 
 ### [WEATHER APP]
 
 📌 [Weather App | Vanilla JS]
-🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 [GitHub Repo](URL)
+🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 https://github.com/Shackila/semi-advanced-weather-app
 
 ## Technologies I Love
 
