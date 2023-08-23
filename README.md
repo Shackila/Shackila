@@ -13,12 +13,21 @@
 
 ### PORTFOLIO
 📌 [HTML | CSS | JS]
-🔗 (https://tubular-narwhal-219d42.netlify.app/) | 
+🔗 ()
+<a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
+  <img src="https://github.com/Shackila/Shackila/assets/105964124/940a1024-b797-469a-bc55-285c43f78444" alt="Link Icon" width="24" height="24">
+</a>
+<br/>
 📂 https://github.com/Shackila/portfolio
 
 ### WEATHER APP
 📌 [Vanilla JS | CSS | HTML]
-🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 https://github.com/Shackila/semi-advanced-weather-app
+🔗 ()
+<a href="[https://tubular-narwhal-219d42.netlify.app/](https://regal-kitten-46db67.netlify.app/)" target="_blank">
+  <img src="[https://tubular-narwhal-219d42.netlify.app](https://github.com/Shackila/Shackila/assets/105964124/940a1024-b797-469a-bc55-285c43f78444)/" alt="Link Icon" width="24" height="24">
+</a>
+<br/>
+📂 https://github.com/Shackila/semi-advanced-weather-app
 
 ## Technologies I Love
 
