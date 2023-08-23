@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Shakila!
 
-<!--
-**Shackila/Shackila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Developer | 💻 Tech Lover | 🔜 Software Engineer To Be
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 I love to combine the art of design with the science of programming.
+- 🎓 Studing Computer Engineering at ZNU.
+- ⌛ Currently exploring React-Js.
+
+## Projects I'm Proud Of
+
+### [Project 1]
+
+📌 [My Personal Portfolio]
+🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 [GitHub Repo](URL)
+
+### [Project 2]
+
+📌 [Weather App | Vanilla JS]
+🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 [GitHub Repo](URL)
+
+## Technologies I Love
+
+💻 JavaScript | ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
+
+## Let's Connect
+
+📧 Email: mvd.shakila@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/shakila-movahed
