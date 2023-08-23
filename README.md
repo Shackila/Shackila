@@ -23,9 +23,12 @@
 
 ## Technologies I Love
 
-![image](https://github.com/Shackila/Shackila/assets/105964124/75d95784-12e4-4888-8725-50296278dfec)
+![image](https://github.com/Shackila/Shackila/assets/105964124/e1925eee-3533-483b-84d1-b76697725731)
+| ![image](https://github.com/Shackila/Shackila/assets/105964124/0eab9d73-9645-4db8-854a-97da631f4b09)
+| ![image](https://github.com/Shackila/Shackila/assets/105964124/fcbe8994-0ed6-4ef1-bc2a-7e45b25df7fa)
+| ![image](https://github.com/Shackila/Shackila/assets/105964124/b9c30277-200e-4c79-879b-c808f0db30a1)
+| ![image](https://github.com/Shackila/Shackila/assets/105964124/d4e89f7f-d4e1-4a79-80f9-787d7c4157f7)
 
-| ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
 
 ## Let's Connect
 
