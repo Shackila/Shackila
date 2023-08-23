@@ -12,7 +12,7 @@
 ## Projects I'm Proud Of
 
 ### PORTFOLIO
-[HTML | CSS | ![image](https://github.com/Shackila/Shackila/assets/105964124/50be36f6-4f35-4f74-b218-1c2987663708)
+[HTML | CSS | ![image](https://github.com/Shackila/Shackila/assets/105964124/0ad01a26-6292-498c-89f8-b748b01745b7)
 ]
 <div>
   <img src="https://github.com/Shackila/Shackila/assets/105964124/b8ccd9b2-a103-4d4c-88ab-470bb7be3cb0" alt="Link Icon" width="24" height="24">
