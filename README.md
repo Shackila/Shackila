@@ -23,7 +23,7 @@
 
 ## Technologies I Love
 
-![JS icon][(http://www.w3.org/2000/svg)](https://icons8.com/icon/108784/javascript)| ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
+![JS icon](https://icons8.com/icon/108784/javascript)| ⚛️ React | 🎨 CSS | 📦 HTML | 🛠️ Bootstrap
 
 ## Let's Connect
 
