@@ -15,7 +15,8 @@
 
 ### 📌PORTFOLIO 
 <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
-    Visit My Portfolio ![image](https://github.com/Shackila/Shackila/assets/105964124/77036bcc-97ac-4a1c-aa31-1ea31209d78c)
+    Visit My Portfolio 
+    ![image](https://github.com/Shackila/Shackila/assets/105964124/77036bcc-97ac-4a1c-aa31-1ea31209d78c)
 </a>
 <br/>
 <a href="https://github.com/Shackila/portfolio" target="_blank">
