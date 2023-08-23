@@ -12,17 +12,13 @@
 ## Projects I'm Proud Of
 
 ### 📌PORTFOLIO 
-<div>
-  <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
+- <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
   Visit My Portfolio
 </a>
-  </div>
 <br/>
-<div>
-  <a href="https://github.com/Shackila/portfolio" target="_blank">
+- <a href="https://github.com/Shackila/portfolio" target="_blank">
   Portfolio Github Ripository
 </a>
-  </div>
 
 ### 📌WEATHER APP
 <div>
