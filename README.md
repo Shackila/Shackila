@@ -11,11 +11,13 @@
 
 ## Projects I'm Proud Of
 
-### ![image](https://github.com/Shackila/Shackila/assets/105964124/b7cb2fa9-0dee-458f-9f22-9af8e74b11ec) [PORTFOLIO]
+### PORTFOLIO
+![image](https://github.com/Shackila/Shackila/assets/105964124/b7cb2fa9-0dee-458f-9f22-9af8e74b11ec)
 📌 [HTML | CSS | JS]
 🔗 (https://tubular-narwhal-219d42.netlify.app/) | 📂 https://github.com/Shackila/portfolio
 
-### ![image](https://github.com/Shackila/Shackila/assets/105964124/c1ac2d19-e170-4556-aafb-1b9d7fdfc1af) [WEATHER APP]
+### WEATHER APP
+![image](https://github.com/Shackila/Shackila/assets/105964124/c1ac2d19-e170-4556-aafb-1b9d7fdfc1af)
 📌 [Vanilla JS | CSS  HTML]
 🔗 (https://regal-kitten-46db67.netlify.app/) | 📂 https://github.com/Shackila/semi-advanced-weather-app
 
