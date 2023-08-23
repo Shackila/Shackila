@@ -1,4 +1,4 @@
-![Tech Woman]https://img.icons8.com/external-flat-wichaiwi/64/000000/external-designer-gig-economy-flat-wichaiwi.png
+![Tech Woman](https://img.icons8.com/external-flat-wichaiwi/64/000000/external-designer-gig-economy-flat-wichaiwi.png)
 # Hi, I'm Shakila! 
 
 
