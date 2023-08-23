@@ -14,10 +14,10 @@
 ## Projects I'm Proud Of
 
 ### 📌PORTFOLIO 
+![icon](https://github.com/Shackila/Shackila/assets/105964124/77036bcc-97ac-4a1c-aa31-1ea31209d78c)
 <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
     Visit My Portfolio 
 </a>
-![icon](https://github.com/Shackila/Shackila/assets/105964124/77036bcc-97ac-4a1c-aa31-1ea31209d78c)
 <br/>
 <a href="https://github.com/Shackila/portfolio" target="_blank">
     Portfolio Github Repository
