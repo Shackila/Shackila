@@ -12,25 +12,24 @@
 ## Projects I'm Proud Of
 
 ### 📌PORTFOLIO 
-
-- <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
-  Visit My Portfolio
+<a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
+    Visit My Portfolio
 </a>
 <br/>
-- <a href="https://github.com/Shackila/portfolio" target="_blank">
-  Portfolio Github Ripository
+<a href="https://github.com/Shackila/portfolio" target="_blank">
+    Portfolio Github Ripository
 </a>
 
 ### 📌WEATHER APP
 <div>
    <a href="https://regal-kitten-46db67.netlify.app/" target="_blank">
-   Visit My Weather App
+     Visit My Weather App
 </a>
   </div>
 <br/>
 <div>
   <a href="https://github.com/Shackila/semi-advanced-weather-app" target="_blank">
-  Weather App Github Ripository
+    Weather App Github Ripository
 </a>
   </div>
   
