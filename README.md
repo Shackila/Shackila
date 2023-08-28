@@ -15,20 +15,20 @@
 
 ### 📌PORTFOLIO 
 <a href="https://tubular-narwhal-219d42.netlify.app/" target="_blank">
-    Visit My Portfolio 
+    • Visit My Portfolio 
 </a>
 <br/>
 <a href="https://github.com/Shackila/portfolio" target="_blank">
-    Portfolio Github Repository
+    • Portfolio Github Repository
 </a>
 
 ### 📌WEATHER APP
    <a href="https://regal-kitten-46db67.netlify.app/" target="_blank">
-     Visit My Weather App
+     • Visit My Weather App
 </a>
 <br/>
   <a href="https://github.com/Shackila/semi-advanced-weather-app" target="_blank">
-    Weather App Github Repository
+    • Weather App Github Repository
 </a>
   
 ## Technologies I Love
