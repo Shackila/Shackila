@@ -32,14 +32,7 @@
 </a>
   
 ## Technologies I Love
-![js](https://github.com/Shackila/Shackila/assets/105964124/cf9a0970-6736-4f6f-bcc2-8632267ce703)
- ![react](https://github.com/Shackila/Shackila/assets/105964124/fe52203a-60e7-4c5b-b98a-76001bc11ddb)
- ![html](https://github.com/Shackila/Shackila/assets/105964124/43f18783-bfa7-4cdb-92f4-44e0eae7ec32)
- ![css](https://github.com/Shackila/Shackila/assets/105964124/2d060331-46cf-4a6b-b934-19be3df78a17)
- ![bootstrap](https://github.com/Shackila/Shackila/assets/105964124/47dcce29-f47b-42b1-a100-2da769ea34cf)
-
-
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 
 ## Contact Me
