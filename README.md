@@ -32,7 +32,7 @@
 </a>
   
 ## Technologies I Love
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,react,tailwind)](https://skills.thijs.gg)
 
 
 ## Contact Me
